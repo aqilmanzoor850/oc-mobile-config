@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "REPLACE_WITH_TEAM_ID.com.anonymous.scbb"
+        ],
+        "components": [
+          {
+            "/": "/singpass/*",
+            "comment": "Universal Link for Singpass redirect"
+          },
+          {
+            "/": "/corppass/*",
+            "comment": "Universal Link for Corppass redirect"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "REPLACE_WITH_TEAM_ID.com.anonymous.scbb"
+    ]
+  }
+}

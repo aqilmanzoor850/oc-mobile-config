@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anonymous.scbb",
+      "sha256_cert_fingerprints": [
+        "9A:B7:A8:5E:4C:86:1B:25:52:34:90:24:B7:99:66:C7:26:A6:2C:7E:E6:75:FE:0C:57:E6:41:31:46:F8:C2:0E"
+      ]
+    }
+  }
+]
